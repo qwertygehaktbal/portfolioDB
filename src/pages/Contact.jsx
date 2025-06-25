@@ -7,7 +7,7 @@ export default function Contact() {
       <p>Feel free to reach out!</p>
       <div className="flex justify-center space-x-6 mt-6 text-black">
         <a
-          href="https://linkedin.com/in/yourprofile"
+          href="https://www.linkedin.com/in/daan-bakema-0211a220b/"
           target="_blank"
           rel="noreferrer"
           aria-label="LinkedIn"
@@ -16,7 +16,7 @@ export default function Contact() {
           <Linkedin size={40} />
         </a>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/qwertygehaktbal"
           target="_blank"
           rel="noreferrer"
           aria-label="GitHub"

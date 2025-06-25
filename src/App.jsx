@@ -28,7 +28,7 @@ export default function App() {
         </main>
 
         <footer className="p-4 text-center bg-white shadow-inner">
-          &copy; {new Date().getFullYear()} Your Name
+          &copy; {new Date().getFullYear()} qwertygehaktbal
         </footer>
       </div>
     </Router>
